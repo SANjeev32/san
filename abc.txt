@@ -13,7 +13,7 @@
   13   // Create a container for the data.
   14   sensor_msgs::PointCloud2 output;
   15 
-  16   // Do data processing here...
+  16   hello there . :P
   17   output = *input;
   18 
   19   // Publish the data.
